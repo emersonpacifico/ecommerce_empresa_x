@@ -29,7 +29,7 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 
 #### Imagem Local
 
-![Logo do Python]("img/Python-logo-notext.svg.png")
+![Logo do Python](img/Python-logo-notext.svg.png)
 <img src="img/Python-logo-notext.svg.png" width="150" height="150">
 
 [Google](https://www.google.com)
