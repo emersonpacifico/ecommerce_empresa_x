@@ -33,3 +33,9 @@ _Checkout, **Tela de produto**, Catálogo, Home com banner_
 <img src="img/Python-logo-notext.svg.png" width="150" height="150">
 
 [Google](https://www.google.com)
+
+```Javascript
+function soma(a + b){
+    return a + b
+}
+```
